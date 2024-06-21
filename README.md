@@ -23,7 +23,7 @@ controllo il frigo
             compro degli snack
         altrimenti
             vado in cassa a pagare
-    vado a pagare
+        vado a pagare
     altrimenti
         giro per gli scaffali controllando la lista
     poso il carrello
